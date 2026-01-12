@@ -92,7 +92,8 @@ git rebase main
 
 ---
 
-## 2️⃣ git t fch vs git pull
+
+## 2️⃣  git fetch vs git pull
 
 ### 🔹 git fetch란?
 
@@ -144,6 +145,7 @@ git merge origin/main
 ```
 
 ---
+
 
 ### 🔑 git fetch vs git pull 정리
 
