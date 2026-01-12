@@ -92,7 +92,7 @@ git rebase main
 
 ---
 
-## 2️⃣ git t etch vs git pull
+## 2️⃣ git t fch vs git pull
 
 ### 🔹 git fetch란?
 
