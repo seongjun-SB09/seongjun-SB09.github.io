@@ -17,7 +17,6 @@ Spring 기반 애플리케이션을 이해하려면 두 가지 핵심 개념을 
 
 ## 1. Spring에서 AOP가 필요한 이유와 실제 활용 사례
 
----
 ### 1-1) AOP란 무엇인가?
 
 `AOP(Aspect Oriented Programming)`는 
@@ -111,7 +110,6 @@ public void createOrder() {
 
 ## 2. Spring MVC 요청 처리 흐름과 @Controller / @RestController 차이
 
----
 ### 2-1) Spring MVC의 요청 처리 흐름
 
 Spring MVC에서 클라이언트의 요청은 다음과 같은 흐름을 거친다.
